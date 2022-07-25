@@ -1,27 +1,33 @@
 .medio{
     display: flex;
 }
-.cuadrito1{
+.cuadrito{
     width: 200px;
     height: 150px;
     background-color: red;
     border: white solid 20px;
 }
-.cuadro1{
+.cuadro{
     width: 300px;
     height: 150px;
     background-color: red;
     border: white solid 20px;
 }
-.cuadrito2{
-    width: 200px;
-    height: 150px;
-    background-color: red;
-    border: white solid 20px;
+.vertical{
+    width: 20px;
+    height: 170px;
+    background-color: blue;
+    border-top: white solid 20px;
 }
-.cuadro2{
-    width: 300px;
-    height: 150px;
-    background-color: red;
-    border: white solid 20px;
+.vertical1{
+    width: 20px;
+    height: 170px;
+    background-color: blue;
+    border-bottom: white solid 20px;
+}
+.horizontal{
+    width: 560px;
+    height: 20px;
+    background-color: blue;
+    border-left: white solid 20px;
 }
